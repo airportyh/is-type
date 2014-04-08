@@ -1,0 +1,6 @@
+{
+  "name": "is-type",
+  "repo": "airportyh/is-type",
+  "main": "index.js",
+  "scripts": ["index.js"]
+}
