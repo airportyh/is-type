@@ -1,10 +1,7 @@
 // Adapted from <https://github.com/isaacs/core-util-is>
 // and <https://github.com/juliangruber/is-type>
 
-function isArray(ar) {
-  return Array.isArray(ar);
-}
-exports.array = isArray;
+exports.array = Array.isArray;
 
 function isBoolean(arg) {
   return typeof arg === 'boolean';
